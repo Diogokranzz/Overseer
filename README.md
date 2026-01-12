@@ -21,7 +21,7 @@
 
 ## Sobre
 
-Ferramenta de mapeamento de superfície de ataque externa usando **reconhecimento 100% passivo**. Nenhum pacote é enviado ao alvo — todos os dados vêm de logs públicos de Certificate Transparency e DNS.
+Ferramenta de mapeamento de superfície de ataque externa usando **reconhecimento 100% passivo**. Nenhum pacote é enviado ao alvo,todos os dados vêm de logs públicos de Certificate Transparency e DNS.
 
 **Fase 1 do Cyber Kill Chain: Reconnaissance**
 
